@@ -1,0 +1,9 @@
+{
+  "chainlength": 17,
+  "n": 100,
+  "seed": 24690,
+  "terminal_groups": [
+    "cyano",
+    "phenol"
+  ]
+}

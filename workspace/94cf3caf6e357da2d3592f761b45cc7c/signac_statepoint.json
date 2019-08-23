@@ -1,0 +1,9 @@
+{
+  "chainlength": 17,
+  "n": 100,
+  "seed": 37035,
+  "terminal_groups": [
+    "fluorophenyl",
+    "phenol"
+  ]
+}
