@@ -119,8 +119,11 @@ Note: Shear was originally performed for 5ns and then extended another 5ns. The 
 NOTE: If the simulations do not complete in the hours provided, concatenating the TRR files is necessary.
 
 This is easier to do through the `trjcat` command from command line `GROMACS`.
+
 `gmx_mpi trjcat -f shear_5nN*.trr -o shear_5nN_combined.trr`
+
 `gmx_mpi trjcat -f shear_15nN*.trr -o shear_15nN_combined.trr`
+
 `gmx_mpi trjcat -f shear_25nN*.trr -o shear_25nN_combined.trr`
 
 ----------
