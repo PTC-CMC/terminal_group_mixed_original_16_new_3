@@ -1,5 +1,7 @@
 # Screening monolayer terminal groups with 3 additional terminal groups for consideration
 
+This covers chemically dissimilar films where one film is one of the 16 original groups, against the 3 new candidates. 
+
 ## Installation/Set-up
 
 #### Download and install anaconda
